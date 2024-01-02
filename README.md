@@ -29,4 +29,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## Contact
 
-For more info or any question related to this project, feel free to contact me on on **amansinghh525@gmail.com**.
+For more info or any question related to this project, feel free to contact me on **amansinghh525@gmail.com**.
